@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    height: 1700px;
+    width: 20%;
+    align-items: center;
+    background-color: #6c5ce7;
+    padding: 10px;
+    gap: 20px;
+}
+
+nav h3{
+    color: #2d3436;
+    padding: 10px 20px;
+    width: 200px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+nav h3:hover{
+    background-color: #7160ee;
+}
+
+span{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 30%;
+    color: #6c5ce7;
+}
