@@ -9,10 +9,10 @@ footer{
 }
 
 footer h2{
-    color: #636e72;
+    color: black;
     cursor: pointer;
 }
 
 footer p b{
-    color: #6c5ce7;
+    color: black 2px solid;
 }

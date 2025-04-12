@@ -34,11 +34,11 @@
 }
 
 .cart-container h2 {
-    color: #6c5ce7;
+    color: black;
 }
 
 .cart-box h3 {
-    color: #6c5ce7;
+    color: gray;
 }
 
 .remove-cart button {
@@ -70,7 +70,7 @@
 }
 
 .tot-amt {
-    color: #6c5ce7;
+    color:dodgerblue;
     border: 1px solid #ccc;
     width: 200px;
     text-align: right;
